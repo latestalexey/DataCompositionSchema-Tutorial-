@@ -67,7 +67,7 @@ Language: Russian
 
 То есть правильнее было бы оформить наши настройки в настройках по умолчанию.  Так и поступим:
 
-![code5](https://cloud.githubusercontent.com/assets/11144999/6414506/a46890f4-bea0-11e4-8acb-6f3fde77419b.jpg)
+![code5](https://cloud.githubusercontent.com/assets/11144999/6415413/aa1b9026-bea7-11e4-9012-4db98aab4600.jpg)
 
 В результате получим простой отчет:
 
