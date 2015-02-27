@@ -122,3 +122,5 @@ Language: Russian
 ![code5](https://cloud.githubusercontent.com/assets/11144999/6414506/a46890f4-bea0-11e4-8acb-6f3fde77419b.jpg)
 
 В результате получим простой отчет:
+
+![1](https://cloud.githubusercontent.com/assets/11144999/6414623/5f76d9e6-bea1-11e4-8d4e-8e798f03bc8e.jpg)
