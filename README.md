@@ -104,4 +104,5 @@ Language: Russian
 ![code2](https://cloud.githubusercontent.com/assets/11144999/6413979/fa03d1e4-be9c-11e4-89de-63015a7bf8e6.jpg)
 
 Опишем собственную команду формирования отчета:
+
 ![code3](https://cloud.githubusercontent.com/assets/11144999/6414181/3a346ea8-be9e-11e4-86f4-b95b8956fa04.jpg)
