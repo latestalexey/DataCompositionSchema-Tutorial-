@@ -102,4 +102,5 @@ Language: Russian
 
 ![code1](https://cloud.githubusercontent.com/assets/11144999/6413751/29cf7056-be9b-11e4-85b0-8a8d68da1d20.jpg)
 ![code2](https://cloud.githubusercontent.com/assets/11144999/6413979/fa03d1e4-be9c-11e4-89de-63015a7bf8e6.jpg)
+
 Опишем собственную команду формирования отчета:
