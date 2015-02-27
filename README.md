@@ -124,3 +124,8 @@ Language: Russian
 В результате получим простой отчет:
 
 ![1](https://cloud.githubusercontent.com/assets/11144999/6414623/5f76d9e6-bea1-11e4-8d4e-8e798f03bc8e.jpg)
+
+
+![code7](https://cloud.githubusercontent.com/assets/11144999/6414751/8f975636-bea2-11e4-9ff5-ef66efdccffc.jpg)
+
+![2](https://cloud.githubusercontent.com/assets/11144999/6414765/b511e872-bea2-11e4-962c-3c186641d1a9.jpg)
